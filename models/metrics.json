@@ -1,0 +1,26 @@
+[
+  {
+    "Modèle": "LR  C=0.1  (régularisation forte)",
+    "Accuracy": 0.8538,
+    "Precision": 0.2358,
+    "Recall": 0.7646,
+    "F1": 0.3604,
+    "AUC-ROC": 0.8739
+  },
+  {
+    "Modèle": "LR  C=1.0  (régularisation normale)",
+    "Accuracy": 0.8533,
+    "Precision": 0.2352,
+    "Recall": 0.7652,
+    "F1": 0.3598,
+    "AUC-ROC": 0.8743
+  },
+  {
+    "Modèle": "LR  C=10.0 (régularisation faible)",
+    "Accuracy": 0.8533,
+    "Precision": 0.2352,
+    "Recall": 0.7658,
+    "F1": 0.3599,
+    "AUC-ROC": 0.8744
+  }
+]
